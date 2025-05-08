@@ -1,0 +1,12 @@
+{
+    "2025-04-26": {
+        "tasks": {
+            "study": {
+                "percentage": 10.0,
+                "completed": false
+            }
+        },
+        "completed": 0,
+        "total_percentage": 0
+    }
+}
